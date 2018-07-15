@@ -1,0 +1,14 @@
+Start of messages at: 2018-06-12 14:00:00
+[Info]:(Succesfull initialization of wsInit), at:2018-06-12 14:00:00
+[Info]:(hint sock has been created), at:2018-06-12 14:00:00
+[Info]:(Successfully connected), at:2018-06-12 14:00:00
+[Info]:(New thread has started!), at:2018-06-12 14:00:00
+[Info]:(Client has stop running!), at:2018-06-12 14:00:00
+The class has been closed at: 2018-06-12 14:00:00
+
+[Info]:(Succesfull initialization of wsInit), at:2018-06-12 14:00:12
+[Info]:(hint sock has been created), at:2018-06-12 14:00:12
+[Info]:(Successfully connected), at:2018-06-12 14:00:12
+[Info]:(New thread has started!), at:2018-06-12 14:00:12
+[Info]:(Client has stop running!), at:2018-06-12 14:00:12
+The class has been closed at: 2018-06-12 14:00:12
